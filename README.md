@@ -9,8 +9,8 @@ The dataset for paper "Why Do We Click: Visual Impression-aware News Recommendat
 **Dataset**
 
 - The filename corresponds to the newsid in the original dataset.
-
 - The download link for our dataset: https://drive.google.com/file/d/1gx0OzN7qSuyRlvN0cfVUjB4tmoKvvQk1/view?usp=sharing
+- imageList.npy: The newsid list of successfully crawled images in the format of [newsid,...].
 
 **Utils**
 
